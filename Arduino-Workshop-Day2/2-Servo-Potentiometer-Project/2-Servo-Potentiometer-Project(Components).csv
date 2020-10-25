@@ -1,0 +1,4 @@
+Name,Quantity,Component
+U1,1, Arduino Uno R3
+Rpot1,1,250 kohm  Potentiometer
+SERVO1,1, Micro Servo
