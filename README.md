@@ -16,7 +16,7 @@ _Note that Tinker cad was the tool of choice for this workshop, because of its a
 * This day starts with beginner level coding projects were programming fundamentals and basic electronic circuits are explained and applied, and it finishes up with more intermediate projects. 
 * Each project file contains the ***Arduino .ino code*** along with an ***image of the circuit*** corresponding to that particular project. 
 
-_Note that the published projects are well commented to help clear any vagueness and the_ **"Project Task" is given at the beginning of each arduino .ino file.**_  
+_Note that the published projects are well commented to help clear any vagueness and the **"Project Task" is given at the beginning of each arduino .ino file.**_  
 
 ## Arduino-Workshop-Day2
 * This folder contains the 3 advanced projects that were accomplished on Day2. The projects are labeled ***"1" through "3"*** as the order they were worked with. 
