@@ -14,11 +14,12 @@ _Note that Tinker cad was the tool of choice for this workshop, because of its a
 ## Arduino-Workshop-Day1
 * This folder contains the 7 projects that were accomplished on Day1. The projects are labeled ***"1" through "7"*** as the order they were worked with. 
 * This day starts with beginner level coding projects were programming fundamentals and basic electronic circuits are explained and applied, and it finishes up with more intermediate projects. 
-_Each project file contains the ***Arduino .ino code*** along with an ***image of the circuit*** corresponding to that particular project. Note that the published projects are well commented to help clear any vagueness and the_ **"Project Task" is given at the beginning of each arduino .ino file.**  
+* Each project file contains the ***Arduino .ino code*** along with an ***image of the circuit*** corresponding to that particular project. 
+_Note that the published projects are well commented to help clear any vagueness and the_ **"Project Task" is given at the beginning of each arduino .ino file.**_  
 
 ## Arduino-Workshop-Day2
 * This folder contains the 3 advanced projects that were accomplished on Day2. The projects are labeled ***"1" through "3"*** as the order they were worked with. 
 * This day covers advanced projects that require the use of advanced sensors with the **Final Project** serving as a task that will definitely test your skills. 
-
-_Each project file contains the ***Arduino .ino code*** along with an ***image of the circuit*** corresponding to that particular project; also, a ***Component electronic list*** will be provided. Note that the published projects are well commented to help clear any vagueness and the_ **"Project Task" is given at the beginning of each arduino .ino file.**
+* Each project file contains the ***Arduino .ino code*** along with an ***image of the circuit*** corresponding to that particular project; also, a ***Component electronic list*** will be provided. 
+_Note that the published projects are well commented to help clear any vagueness and the **"Project Task" is given at the beginning of each arduino .ino file.**_
 
